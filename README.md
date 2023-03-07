@@ -1,2 +1,3 @@
 # get_next_line
-The get_next_line subject is available above in this repo.
+You can click [here](https://github.com/limdem/get_next_line/blob/main/en.subject.pdf)
+ to have a look at the project subject!
